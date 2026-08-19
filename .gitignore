@@ -1,0 +1,16 @@
+# WorkBuddy skill
+node_modules/
+*.db
+*.db-shm
+*.db-wal
+*.zip
+.DS_Store
+__pycache__/
+*.pyc
+.env
+*.mp4
+*.pdf
+*.woff
+*.woff2
+*.ttf
+*.otf

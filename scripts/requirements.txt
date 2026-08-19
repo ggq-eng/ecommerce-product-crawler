@@ -1,0 +1,7 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# 可选：用于补全"价格/用户综合评分"字段（苏宁仅在浏览器端渲染这些数据）
+# 安装后运行： pip install playwright && playwright install chromium
+# 未安装时程序自动降级为纯 HTTP（价格/评分留空，不报错）
+playwright>=1.44.0
